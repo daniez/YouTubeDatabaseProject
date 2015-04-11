@@ -1,0 +1,1909 @@
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+insert into youtubedatabase.USERS (USERNAME, PASSWORD ) values('dan', 'danielle7A$!')
+DROP TABLE IF EXISTS youtubedatabase.LINKS_dan
+create table youtubedatabase.LINKS_dan (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ujKL1pUHDfo', 'The coelacanth: A living fossil of a fish - Erin Eastwood', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('VzDYS-bZVNw', 'Etho Plays Minecraft - Episode 355: Mega Fish Tank', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OscRe3pSP80', '♥♥ Coral Reef Fish (3 hours)', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('U13DaFJq8ls', 'Dessa - Fighting Fish', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('KzzHlU_hjoE', 'Wild Kratts When Fish Fly new 2014', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('I8yJkIuvPvM', 'Milking the WORLD&#39;S MOST VENOMOUS FISH! - Smarter Every Day 117', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('yAF71U_Lbio', 'Fish Face (Weekend Vlog / July 26 - 27, 2014)', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('gOKf18WeQw4', 'The Inbetweeners 2 ‘Fish Food’ film clip', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('JKg1a5SOZUE', 'Sneaky Cat Steals Fish | Lock Your Freezer', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('PJmEyCLuy9E', 'Eating the Head Off a Fish - Live Feed Highlight', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Jvf0ZHkt3C8', 'How to Find Fish - Bass Fishing', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('y-QFHyyrvAw', 'Putting a Fish in Hayden&#39;s Pillow - Live Feed Highlight', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('gMiYXgM_gJE', 'Going on a Fish Hunt: I caught a Polar Bear Acuda and more', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('wKU9WbAnSHE', 'Hungry snake struggles to swallow fish - Tv9', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DTdkhkYgGno', 'Big Man catches Bigger Fish!', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('45ES7DOHwXE', 'Minecraft | CRAZY FISHING MOD Showcase! (Mutant Fish Mod, Fish Mod, Fishing Mod)', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('pG5pj437cVc', 'Spearfishing Movie - One Fish Legends', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('yx_Wrbl_5ks', 'How Fish Eat Part 2 (SLOW MOTION UNDERWATER!) - Smarter Every Day 119', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('87jbggTZpcE', 'Camp Tarpon - CRAZY fish battle off of Tampa Bay', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m4_YXGwWBWk', 'Download Fish Tales FULL FOR FREE', 'arts')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+delete  from LINKS_dan where id like '5'
+USE youtubedatabase
+delete  from LINKS_dan where id like '1'
+USE youtubedatabase
+delete  from LINKS_dan where id like '2'
+USE youtubedatabase
+delete  from LINKS_dan where id like '3'
+USE youtubedatabase
+delete  from LINKS_dan where id like '4'
+USE youtubedatabase
+delete  from LINKS_dan where id like '6'
+USE youtubedatabase
+delete  from LINKS_dan where id like '7'
+USE youtubedatabase
+delete  from LINKS_dan where id like '8'
+USE youtubedatabase
+delete  from LINKS_dan where id like '9'
+USE youtubedatabase
+delete  from LINKS_dan where id like '10'
+USE youtubedatabase
+delete  from LINKS_dan where id like '11'
+USE youtubedatabase
+delete  from LINKS_dan where id like '12'
+USE youtubedatabase
+delete  from LINKS_dan where id like '13'
+USE youtubedatabase
+delete  from LINKS_dan where id like '14'
+USE youtubedatabase
+delete  from LINKS_dan where id like '15'
+USE youtubedatabase
+delete  from LINKS_dan where id like '16'
+USE youtubedatabase
+delete  from LINKS_dan where id like '17'
+USE youtubedatabase
+delete  from LINKS_dan where id like '18'
+USE youtubedatabase
+delete  from LINKS_dan where id like '19'
+USE youtubedatabase
+delete  from LINKS_dan where id like '20'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_dan
+create table youtubedatabase.LINKS_dan (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OscRe3pSP80', '♥♥ Coral Reef Fish (3 hours)', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ujKL1pUHDfo', 'The coelacanth: A living fossil of a fish - Erin Eastwood', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('KzzHlU_hjoE', 'Wild Kratts When Fish Fly new 2014', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('N7MPZbw538g', 'Minecraft: EPIC OCEANS (RIDE SEAHORSES, NEW FISH, CRAZY BEASTS, &amp; MORE!) Mod Showcase', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('I8yJkIuvPvM', 'Milking the WORLD&#39;S MOST VENOMOUS FISH! - Smarter Every Day 117', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('gOKf18WeQw4', 'The Inbetweeners 2 ‘Fish Food’ film clip', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('U13DaFJq8ls', 'Dessa - Fighting Fish', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('VzDYS-bZVNw', 'Etho Plays Minecraft - Episode 355: Mega Fish Tank', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Jvf0ZHkt3C8', 'How to Find Fish - Bass Fishing', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('yAF71U_Lbio', 'Fish Face (Weekend Vlog / July 26 - 27, 2014)', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DTdkhkYgGno', 'Big Man catches Bigger Fish!', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('45ES7DOHwXE', 'Minecraft | CRAZY FISHING MOD Showcase! (Mutant Fish Mod, Fish Mod, Fishing Mod)', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('yx_Wrbl_5ks', 'How Fish Eat Part 2 (SLOW MOTION UNDERWATER!) - Smarter Every Day 119', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ZiMECW27la4', 'Oh No, The Kids Fishing A Big Fish', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('NBaT-gwiBHs', 'Download Fish Tycoon FULL FREE', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('HWX4Yon_wqQ', 'DOWNLOAD Fish Tycoon FULL FOR FREE', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('tjSF3E8hcFw', 'Funny cats vs fish tanks - Cute cat compilation', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Tt3xDXCxQ3o', 'DOWNLOAD Fish Tycoon WORKING 2014', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UKcIdgON-ik', 'Download Fish Fillets 2 FULL FOR FREE', 'arts')
+insert into youtubedatabase.LINKS_dan (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kPEDtJ8fkPE', 'DOWNLOAD Fish Passion 3.0 For Free', 'arts')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+UPDATE LINKS_dan SET CATEGORY='fish' where id like '1'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+UPDATE LINKS_dan SET CATEGORY='other fish' where id like '2'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+UPDATE LINKS_dan SET CATEGORY='fish' where id like '2'
+USE youtubedatabase
+delete  from LINKS_dan where id like '1'
+USE youtubedatabase
+delete  from LINKS_dan where id like '2'
+USE youtubedatabase
+delete  from LINKS_dan where id like '3'
+USE youtubedatabase
+delete  from LINKS_dan where id like '4'
+USE youtubedatabase
+delete  from LINKS_dan where id like '5'
+USE youtubedatabase
+delete  from LINKS_dan where id like '6'
+USE youtubedatabase
+delete  from LINKS_dan where id like '7'
+USE youtubedatabase
+delete  from LINKS_dan where id like '8'
+USE youtubedatabase
+delete  from LINKS_dan where id like '9'
+USE youtubedatabase
+delete  from LINKS_dan where id like '10'
+USE youtubedatabase
+delete  from LINKS_dan where id like '11'
+USE youtubedatabase
+delete  from LINKS_dan where id like '12'
+USE youtubedatabase
+delete  from LINKS_dan where id like '13'
+USE youtubedatabase
+delete  from LINKS_dan where id like '14'
+USE youtubedatabase
+delete  from LINKS_dan where id like '15'
+USE youtubedatabase
+delete  from LINKS_dan where id like '16'
+USE youtubedatabase
+delete  from LINKS_dan where id like '17'
+USE youtubedatabase
+delete  from LINKS_dan where id like '18'
+USE youtubedatabase
+delete  from LINKS_dan where id like '19'
+USE youtubedatabase
+delete  from LINKS_dan where id like '20'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+UPDATE LINKS_dan SET CATEGORY='arts' where id like '20'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+UPDATE LINKS_dan SET CATEGORY='gaming' where id like '20'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+insert into youtubedatabase.USERS (USERNAME, PASSWORD ) values('danielle', 'danielle1!')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+insert into youtubedatabase.USERS (USERNAME, PASSWORD ) values('susan', 'danielle1&')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+insert into youtubedatabase.USERS (USERNAME, PASSWORD ) values('ellen_tree', 'ellentree1!')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+insert into youtubedatabase.USERS (USERNAME, PASSWORD ) values('magdeline_mary1', 'mmagD$$$1')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OkY86BjBrGA', 'Kevin Streelman barks up the wrong tree on No. 3 at Bridgestone', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('mrdrmeYo4UU', 'Nisha The Lawbringer SKILL TREE OVERVIEW! Borderlands: The Pre-Sequel GAMEPLAY HANDS-ON', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('N8NSx47D-kA', 'ANGRY BIRDS STELLA TREE HOUSE PLAYSET GAME', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OmoEWNjgNLg', 'Alfred Nicholas Gardens Tree Removal', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('r1bgEt5j__8', 'Happy Tree Friends - Twelfth Night', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8p8wJJU3p14', 'Minecraft Mindcrack Server Ep 07 - &quot;The Slime Tree!!!&quot;', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('YPuzJFzXgU4', '&quot;Tree&quot;-Justin Rizzo with lyrics', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4LhW8WIlw_M', 'Download The Great Tree  FULL VERSION', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('H8hDCIyuTNI', 'DOWNLOAD Woodle Tree Adventures FULL VERSION', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oikV7pZa4MU', 'DOWNLOAD Woodle Tree Adventures For Free', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('1IV10M1RbEA', 'Clyde Road Upgrade - Tree relocation', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kHuf_khuM4E', 'Download My Family Tree 3.0.5.0 Full Version', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dgp7hm01lUY', 'DOWNLOAD 3D Christmas Tree Screensaver 1.73 WORKING 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('TTuM9Qyurbg', 'Download Family Tree Legends Full Version', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SqImIChxJ-E', 'Tentsile tree tents: floating treehouses mimic spider webs', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GPeeZ6viNgY', 'Lead India - The Tree', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('mQsg7hhI40U', 'Download Autumn tree leaf fall animated wallpaper  1 Full Version', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UNZDjsff7kU', 'Minecraft Mianite: TREE HELL (Ep. 18)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X5iXhh98v6k', 'Falling in Love with a Tree (Dear Ryan)', 'arts')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('szp9x1ZlZn4', 'twenty one pilots: Trees (Audio)', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BickMFHAZR0', 'The Most Amazing Thing About Trees', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('HYcbaBK9gWs', 'UNREST - Swaying Trees Are SO Next Gen', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('abVvZLyZAIg', 'Learning About Trees | Adventures in Learning | PBS Parents', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('myakMPwMlSk', 'Got some trees to clear? You need this..', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_WVrlGoIWyw', '10 Strangest Trees On Earth', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('e8QQOmkIa8Q', 'How To Grow Orange Trees From Seed - The EASY Way!!!!', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('RyqObqWvTPw', 'DigiTech® Bass Whammy™ Featuring Branden Campbell of Neon Trees', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2-OoHjjh5fM', 'The importance of Trees', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3JZmrLDWAg', 'How to Prune Fruit Trees: Avocado, Apple, Nectarine, Plum, Pomegranate, Pear, Cherry, Fig', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('CgLTCG4FPrA', 'Climbing Trees With A Rope', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m5Mmq2vxkB0', '7 Oldest Trees in the World!', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bI8Xg5mqQNw', 'Trees - Fool', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oz6Ma5fDYOk', 'Uncut: Trees fall at Revere school during tornado', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v_7yEPNUXsU', 'The Man Who Planted Trees (English)', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m6_R9ogCOaI', 'Dota 2 Trees', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EB-LAxCpNFE', 'Acorns to Oak Trees- Part 1: Growing Trees from Seed: S01E01', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('fdxQiSQbjEc', 'Lack of water leaves herbal plants and trees dry', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('D7dKRBZVLvI', 'Tree Song- Learn about Trees! Roots, and Trunks, and Leaves!', 'plants')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hNwhxcLrgEc', 'Climbing Trees', 'plants')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('szp9x1ZlZn4', 'twenty one pilots: Trees (Audio)', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BickMFHAZR0', 'The Most Amazing Thing About Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('HYcbaBK9gWs', 'UNREST - Swaying Trees Are SO Next Gen', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('abVvZLyZAIg', 'Learning About Trees | Adventures in Learning | PBS Parents', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('myakMPwMlSk', 'Got some trees to clear? You need this..', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_WVrlGoIWyw', '10 Strangest Trees On Earth', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('e8QQOmkIa8Q', 'How To Grow Orange Trees From Seed - The EASY Way!!!!', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('RyqObqWvTPw', 'DigiTech® Bass Whammy™ Featuring Branden Campbell of Neon Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2-OoHjjh5fM', 'The importance of Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3JZmrLDWAg', 'How to Prune Fruit Trees: Avocado, Apple, Nectarine, Plum, Pomegranate, Pear, Cherry, Fig', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('6A44qMFkQ6s', 'DOWNLOAD Decorating the Trees theme for Windows 7 WORKING 2014', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('CgLTCG4FPrA', 'Climbing Trees With A Rope', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m5Mmq2vxkB0', '7 Oldest Trees in the World!', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bI8Xg5mqQNw', 'Trees - Fool', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oz6Ma5fDYOk', 'Uncut: Trees fall at Revere school during tornado', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m6_R9ogCOaI', 'Dota 2 Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v_7yEPNUXsU', 'The Man Who Planted Trees (English)', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EB-LAxCpNFE', 'Acorns to Oak Trees- Part 1: Growing Trees from Seed: S01E01', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('fdxQiSQbjEc', 'Lack of water leaves herbal plants and trees dry', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('D7dKRBZVLvI', 'Tree Song- Learn about Trees! Roots, and Trunks, and Leaves!', 'trees')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+delete  from LINKS_danielle where id like '1'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '2'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '3'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '4'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '5'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '6'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '7'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '8'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '9'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '10'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '11'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '12'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '13'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '14'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '15'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '16'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '17'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '18'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '19'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '20'
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('szp9x1ZlZn4', 'twenty one pilots: Trees (Audio)', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BickMFHAZR0', 'The Most Amazing Thing About Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('HYcbaBK9gWs', 'UNREST - Swaying Trees Are SO Next Gen', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('abVvZLyZAIg', 'Learning About Trees | Adventures in Learning | PBS Parents', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('myakMPwMlSk', 'Got some trees to clear? You need this..', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_WVrlGoIWyw', '10 Strangest Trees On Earth', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('e8QQOmkIa8Q', 'How To Grow Orange Trees From Seed - The EASY Way!!!!', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('RyqObqWvTPw', 'DigiTech® Bass Whammy™ Featuring Branden Campbell of Neon Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2-OoHjjh5fM', 'The importance of Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3JZmrLDWAg', 'How to Prune Fruit Trees: Avocado, Apple, Nectarine, Plum, Pomegranate, Pear, Cherry, Fig', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('CgLTCG4FPrA', 'Climbing Trees With A Rope', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m5Mmq2vxkB0', '7 Oldest Trees in the World!', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bI8Xg5mqQNw', 'Trees - Fool', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oz6Ma5fDYOk', 'Uncut: Trees fall at Revere school during tornado', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v_7yEPNUXsU', 'The Man Who Planted Trees (English)', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m6_R9ogCOaI', 'Dota 2 Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EB-LAxCpNFE', 'Acorns to Oak Trees- Part 1: Growing Trees from Seed: S01E01', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('fdxQiSQbjEc', 'Lack of water leaves herbal plants and trees dry', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('D7dKRBZVLvI', 'Tree Song- Learn about Trees! Roots, and Trunks, and Leaves!', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hNwhxcLrgEc', 'Climbing Trees', 'trees')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '1'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '2'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '3'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '4'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '5'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '6'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '7'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '8'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '9'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '10'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '11'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '12'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '13'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '14'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '15'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '16'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '17'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '18'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '19'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '20'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('szp9x1ZlZn4', 'twenty one pilots: Trees (Audio)', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BickMFHAZR0', 'The Most Amazing Thing About Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('abVvZLyZAIg', 'Learning About Trees | Adventures in Learning | PBS Parents', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('HYcbaBK9gWs', 'UNREST - Swaying Trees Are SO Next Gen', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('myakMPwMlSk', 'Got some trees to clear? You need this..', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_WVrlGoIWyw', '10 Strangest Trees On Earth', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('e8QQOmkIa8Q', 'How To Grow Orange Trees From Seed - The EASY Way!!!!', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('RyqObqWvTPw', 'DigiTech® Bass Whammy™ Featuring Branden Campbell of Neon Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2-OoHjjh5fM', 'The importance of Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3JZmrLDWAg', 'How to Prune Fruit Trees: Avocado, Apple, Nectarine, Plum, Pomegranate, Pear, Cherry, Fig', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('CgLTCG4FPrA', 'Climbing Trees With A Rope', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m5Mmq2vxkB0', '7 Oldest Trees in the World!', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bI8Xg5mqQNw', 'Trees - Fool', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('G9m3mqcwPBE', 'DOWNLOAD Decorating the Trees theme for Windows 7 FULL FREE', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oz6Ma5fDYOk', 'Uncut: Trees fall at Revere school during tornado', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v_7yEPNUXsU', 'The Man Who Planted Trees (English)', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m6_R9ogCOaI', 'Dota 2 Trees', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EB-LAxCpNFE', 'Acorns to Oak Trees- Part 1: Growing Trees from Seed: S01E01', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('D7dKRBZVLvI', 'Tree Song- Learn about Trees! Roots, and Trunks, and Leaves!', 'trees')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('fdxQiSQbjEc', 'Lack of water leaves herbal plants and trees dry', 'trees')
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('szp9x1ZlZn4', 'twenty one pilots: Trees (Audio)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BickMFHAZR0', 'The Most Amazing Thing About Trees', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('abVvZLyZAIg', 'Learning About Trees | Adventures in Learning | PBS Parents', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('HYcbaBK9gWs', 'UNREST - Swaying Trees Are SO Next Gen', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('myakMPwMlSk', 'Got some trees to clear? You need this..', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_WVrlGoIWyw', '10 Strangest Trees On Earth', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('e8QQOmkIa8Q', 'How To Grow Orange Trees From Seed - The EASY Way!!!!', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('RyqObqWvTPw', 'DigiTech® Bass Whammy™ Featuring Branden Campbell of Neon Trees', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2-OoHjjh5fM', 'The importance of Trees', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3JZmrLDWAg', 'How to Prune Fruit Trees: Avocado, Apple, Nectarine, Plum, Pomegranate, Pear, Cherry, Fig', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('CgLTCG4FPrA', 'Climbing Trees With A Rope', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m5Mmq2vxkB0', '7 Oldest Trees in the World!', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bI8Xg5mqQNw', 'Trees - Fool', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('G9m3mqcwPBE', 'DOWNLOAD Decorating the Trees theme for Windows 7 FULL FREE', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oz6Ma5fDYOk', 'Uncut: Trees fall at Revere school during tornado', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v_7yEPNUXsU', 'The Man Who Planted Trees (English)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m6_R9ogCOaI', 'Dota 2 Trees', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EB-LAxCpNFE', 'Acorns to Oak Trees- Part 1: Growing Trees from Seed: S01E01', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('D7dKRBZVLvI', 'Tree Song- Learn about Trees! Roots, and Trunks, and Leaves!', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('fdxQiSQbjEc', 'Lack of water leaves herbal plants and trees dry', 'arts')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('szp9x1ZlZn4', 'twenty one pilots: Trees (Audio)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BickMFHAZR0', 'The Most Amazing Thing About Trees', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('abVvZLyZAIg', 'Learning About Trees | Adventures in Learning | PBS Parents', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('HYcbaBK9gWs', 'UNREST - Swaying Trees Are SO Next Gen', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('myakMPwMlSk', 'Got some trees to clear? You need this..', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_WVrlGoIWyw', '10 Strangest Trees On Earth', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('e8QQOmkIa8Q', 'How To Grow Orange Trees From Seed - The EASY Way!!!!', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('RyqObqWvTPw', 'DigiTech® Bass Whammy™ Featuring Branden Campbell of Neon Trees', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2-OoHjjh5fM', 'The importance of Trees', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3JZmrLDWAg', 'How to Prune Fruit Trees: Avocado, Apple, Nectarine, Plum, Pomegranate, Pear, Cherry, Fig', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('CgLTCG4FPrA', 'Climbing Trees With A Rope', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m5Mmq2vxkB0', '7 Oldest Trees in the World!', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bI8Xg5mqQNw', 'Trees - Fool', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('G9m3mqcwPBE', 'DOWNLOAD Decorating the Trees theme for Windows 7 FULL FREE', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oz6Ma5fDYOk', 'Uncut: Trees fall at Revere school during tornado', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v_7yEPNUXsU', 'The Man Who Planted Trees (English)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m6_R9ogCOaI', 'Dota 2 Trees', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EB-LAxCpNFE', 'Acorns to Oak Trees- Part 1: Growing Trees from Seed: S01E01', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('D7dKRBZVLvI', 'Tree Song- Learn about Trees! Roots, and Trunks, and Leaves!', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('fdxQiSQbjEc', 'Lack of water leaves herbal plants and trees dry', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('r161cLYzuDI', 'Where US Politics Came From: Crash Course US History #9', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('R72atCX4leY', 'The Idiot&#39;s Guide to Smart People: Politics (Ep. 1 of 3)', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('nWqpojSj1CA', 'Politics for Dummies: Left &amp; Right Political Parties, Democrat, Republican, Communism, Capitalism', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3Pgz2HcBfpA', 'Jesse Ventura: Two evils in US politics mean no choice at all', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('TJtLVLGyyVs', 'Summerslam 1999 Review : Austin Plays Politics', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qfoqWYU9v94', 'MIND CONTROL IN AMERICAN POLITICS 2014', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X1eayYeXw_k', 'Changing face of Bihar politics', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('J4DDUcUcmPI', 'FAKIN&#39; IT!: How The Daily Show and The Colbert Report Affect Politics and Policy', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('YB7ZaK7Oa88', 'Alex Jones Disrupts BBC&#39;s Sunday Politics Show 2013', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('MrMw4uNgujw', 'CNN politics panel reacts to Lois Lerner&#39;s emails', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('S3PalrfEF4g', 'A Brand new politics: Russell Brand interview with Mehdi Hasan', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('p7EfRbP21qg', 'Politics of polarisation in UP?', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('o4ollmiHoIE', 'Actor Kevin Spacey, Georgetown&#39;s Ron Klain Discuss Politics and Ethics', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SKftRlzh2RM', 'Lying Politicians  And Words', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4JYL5VUe5NQ', 'TEDxMileHighSalon - Michael Huemer - The Irrationality of Politics', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bUkGS2HolpY', 'Is America Really &quot;Coming Apart&quot;? | Institute of Politics', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('COAYMKkcIlE', 'New Politics ft. LOLO - &quot;Tonight You&#39;re Perfect&quot; x &quot;Miss Jackson&quot; (Live on MONUMENTOUR)', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('igmwdd4Wr8I', 'Nigel Farage vs Andrew Neil on BBC Sunday Politics - May 2014', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('RLZLROQU_as', 'Passion + Action Is All It Takes To Fix Politics', 'politics')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('RJbiBWMR5Ko', 'The Politics and Economics of Inequality', 'politics')
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FKkejo2dMV4', 'Funny Cats Compilation 20 min - Happy New Year 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Kdgt1ZHkvnM', 'Epic Funny Cats 20 Minutes', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('PON5gH-1ca0', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('uesuB82Pl2c', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FIcZ6ZNdmgY', '&quot;Selfies&quot; Bad Luck for Black Cats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0QR52mx6LEg', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LNerTfrmkuA', 'Funny Cat Videos Compilation Funny Cats Video Animals Funny Fails 2014 best vines cat vines 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('rH3_EcbsbuU', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m4kPG0jXetw', 'Funny Cat Videos Compilation Funny Cats Video Funny Animals funny cat vines cat vines 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FOLHV3hdDPw', 'Cats Save Tigers – Starring Lil BUB and friends', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('KBFovprQhNY', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v9Ybsbo-ZWY', 'Funny Cats vs Lizards Compilation 2014 [NEW HD]', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FjeUl91IZ0o', 'Cats Watching Trailers - Cats Watch Teenage Mutant Ninja Turtles', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('k4axI_sXMPw', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('h4gxqs47sXc', 'Funny Cat Videos Compilation Funny Cats Video Funny Animals Funny Fails 2014 Funny Videos 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('thB8n_o0Hgg', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('A6GdrxuxUhE', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('KxznpSOFDnw', 'Funny Videos: Funny Cat Videos Ever- Funny Cats Compilation - Funny Animal Videos 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GI88rM4fXkM', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('k_TsKyFt81c', 'Funny Videos:Funny Cats Compilation - Funny Animals - Funny Cat Videos - Funny Animal Videos 2014', 'animals')
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='arts' where id like '1'
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='arts' where id like '1'
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FKkejo2dMV4', 'Funny Cats Compilation 20 min - Happy New Year 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Kdgt1ZHkvnM', 'Epic Funny Cats 20 Minutes', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('PON5gH-1ca0', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('uesuB82Pl2c', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FIcZ6ZNdmgY', '&quot;Selfies&quot; Bad Luck for Black Cats', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0QR52mx6LEg', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LNerTfrmkuA', 'Funny Cat Videos Compilation Funny Cats Video Animals Funny Fails 2014 best vines cat vines 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('rH3_EcbsbuU', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m4kPG0jXetw', 'Funny Cat Videos Compilation Funny Cats Video Funny Animals funny cat vines cat vines 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FOLHV3hdDPw', 'Cats Save Tigers – Starring Lil BUB and friends', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('KBFovprQhNY', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v9Ybsbo-ZWY', 'Funny Cats vs Lizards Compilation 2014 [NEW HD]', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FjeUl91IZ0o', 'Cats Watching Trailers - Cats Watch Teenage Mutant Ninja Turtles', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('k4axI_sXMPw', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('h4gxqs47sXc', 'Funny Cat Videos Compilation Funny Cats Video Funny Animals Funny Fails 2014 Funny Videos 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('thB8n_o0Hgg', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('A6GdrxuxUhE', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('KxznpSOFDnw', 'Funny Videos: Funny Cat Videos Ever- Funny Cats Compilation - Funny Animal Videos 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GI88rM4fXkM', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'sports')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('k_TsKyFt81c', 'Funny Videos:Funny Cats Compilation - Funny Animals - Funny Cat Videos - Funny Animal Videos 2014', 'sports')
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='arts' where id like '19'
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FKkejo2dMV4', 'Funny Cats Compilation 20 min - Happy New Year 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Kdgt1ZHkvnM', 'Epic Funny Cats 20 Minutes', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('PON5gH-1ca0', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0QR52mx6LEg', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FIcZ6ZNdmgY', '&quot;Selfies&quot; Bad Luck for Black Cats', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m4kPG0jXetw', 'Funny Cat Videos Compilation Funny Cats Video Funny Animals funny cat vines cat vines 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FOLHV3hdDPw', 'Cats Save Tigers – Starring Lil BUB and friends', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('rH3_EcbsbuU', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LNerTfrmkuA', 'Funny Cat Videos Compilation Funny Cats Video Animals Funny Fails 2014 best vines cat vines 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('uesuB82Pl2c', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('h4gxqs47sXc', 'Funny Cat Videos Compilation Funny Cats Video Funny Animals Funny Fails 2014 Funny Videos 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('KBFovprQhNY', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('thB8n_o0Hgg', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GI88rM4fXkM', 'Funny Videos 2014 - Funny Cats Video - Funny Cat Videos Ever - Funny Animals Funny Fails 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('znKa0yBjy2c', 'Funny Videos 2014, Funny Videos Cats, Troll, Funny Pranks, Funny vines', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('xEhaVhta7sI', 'Cats Compilation', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v9Ybsbo-ZWY', 'Funny Cats vs Lizards Compilation 2014 [NEW HD]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('A6GdrxuxUhE', 'Funny Videos Fail Compilation, Funny Pranks and Funny Cats Videos New Funny Video', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oBSlllgy7-s', 'Funny dogs annoying cats - Cute animal compilation', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GXwq8UpTHTo', 'Funny Cats New Compilation', 'arts')
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='health' where id like '19'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SwwoL4LAfFo', 'Clash Zemmour VS Ramzy ENTIER ( Contexte + Clash )', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('nmpyQu-142k', 'L&#39;entrée fracassante de Ramzy dans le studio !', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('K7I1M82GO_0', 'Eric et Ramzy (Première partie) - Archive INA', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('yQtaYzx7oyc', 'CE SOIR AVEC ARTHUR &quot; INTERVIEW ERIC ET RAMZY PART 1&quot; em 13', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('xT1HRwc2hes', 'Eric et Ramzy dans c&#39;est quoi ce boucan', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('AixkOi20vAM', 'Monsieur Dutilleul - Eric et Ramzy au Palais des Glaces', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hBM2w68xRzg', 'Clash Ramzy VS Omar', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('7Vxdd1wouMQ', 'Vis ma vie Eric et Ramzy - Stage Commando 2004.avi', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BEB1AKI3ZHQ', 'Interview réactions d&#39;Eric et Ramzy avec Jamel DEBBOUZE et Natasha ST PIER   Tout le monde en parle 3', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('I5TNlYg8jDA', 'Burger Quizz _ Alain Chabat - Eric, Ramzy, Joey Starr, A. de Petrini - part 1.avi', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OK3gYwlxTuQ', 'Naima Akef Tamr Hennah -  Belly Dance by Serena Ramzy &amp;  Live Music by Hossam Ramzy', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Inbkho_UKLw', 'Belly Dance by Serena Ramzy  - Tublet Hossam Hattra Asna- Music by Hossam Ramzy', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('VPWZ0E9f9pk', 'Album - Pile Ou Face - BLanc23i FEAT Ramzy - Ghalta W Srat', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('tXbexVohFbI', 'Ramzy &amp; Dunya Oscar Productions 3134150505', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('J4Hf6IWXsMo', 'King Ramzy - Machi Normal (Prod By Dj Fouzy)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('QF8X9B5cRRI', 'Sallam Allay   ﴋ   Hossam Ramzy', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('-QrLVwZP5eQ', 'Yuri Boyka ft Hossam Ramzy - Night Foal Mİx', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('1yVWmeFM3-Y', 'Bellydance Music: Hossam Ramzy-Sehr oyounik', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('54J8B1HCZWU', 'Ramzy &quot;Bayna Bayna&quot; 2014', 'arts')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kOa3LyJAPn4', 'How to Make Easy Homemade New York Style Cheesecake - No Fuss Recipe', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('b_DZfezY4FI', 'How To Make Oreo Cheesecake Bites', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('TQu2uKClXZ4', 'How to Make New York Cheesecake from Scratch - Mom&#39;s Cheesecake Recipe - Dishin With Di #120', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('6684w6x4w6s', 'Cheesecake Factory&#39;s Original Cheesecake Recipe | Get the Dish', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('q0aArBHQb5I', 'No-Bake Cake Batter Cheesecake Recipe', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('1Ye4jV9yFwI', 'Oreo Cheese Cake', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LWcMTOJGvtk', 'Strawberry Cheesecake Milkshake - HoneysuckleCatering - National Cheesecake Day Playlist!', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LLjHDpj_bmQ', 'Red Velvet Cheesecake Cake - Gemma&#39;s Bigger Bolder Baking Episode 25', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('xZbBmv4acoM', 'No-Bake Cheesecake Parfait Recipe', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('iUZT9zyC6bw', 'PANDA MINI OREO CHEESECAKE - NERDY NUMMIES', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FCCq6thzWIw', 'Mini Cheesecakes Recipe - Cheesecake Cupcakes - Diane Kometa -Dishin&#39; With Di  # 140', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('G_lL88icFqc', 'No Bake Blueberry Cheesecake - Cooked by Julie', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Xxoha70nJsI', 'How to Make Homemade Cheesecake From Scratch - Recipe by Laura Vitale - Laura in the Kitchen Ep. 88', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('lJcG-5QieVA', 'How to Make Cheesecake', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0Qe7YmYgowM', 'Teo - Cheesecake (Belarus) 2014 Eurovision Song Contest', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('jynYxXjSNN0', 'Cheesecake', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('vq3r1M0eZBg', 'New York Cheesecake Recipe Demonstration - Joyofbaking.com', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('vl7OBBTv7KY', 'No Bake Oreo Cheesecake', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('u4pQuHGe9LQ', 'Chocolate Cheesecake Recipe Demonstration - Joyofbaking.com', 'food')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('q1-hOS4qAj8', 'NEW YORK CHEESECAKE RECIPE', 'food')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('u08NGTmxp-E', 'How To Fight a Chicken', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('nHbajQ8U8Fw', 'Baked Chicken', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0FhUljnz_Vc', 'N.M. Border Patrol Facility On &#39;Lockdown&#39; Due to Outbreak of Chicken Pox and TB!', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('B7-kMmC8Tj8', 'Lighter General Tso&#39;s Chicken - Everyday Food with Sarah Carey', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w1viOCSA7-8', 'BUMP OF CHICKEN「You were here�?ショート�?ージョン', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('iRBO9HaGq7E', 'Sweet Sue&#39;s Whole Chicken In A Can Challenge (L.A. BEAST&#39;S 200th Video)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('JYczyTgpqGY', 'SABES (OFFICIAL) - LIL CHRIS &quot;CHICKEN&quot;', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('G09L11TwDCQ', 'Plants Vs Zombies 2 Dark Ages: Part 2 Chicken Run August 1st Piñata Party', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ajuggfk6Dyg', 'Health scare: Antibiotics found in 40 per cent chicken samples', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UCEuOC3PpHw', 'Is eating chicken poisonous? - Tv9', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('uf5yVuzWHN8', 'Chicken Recipes - How to Make Grilled Lemon Chicken', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('1PSgcgSIkeE', 'Taste Time - Chicken Biryani Special 30-07-14', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EK94Yq5qXE4', 'Backyard chickens - Chicken coop tour- Easy to clean', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('7Ze8isrUKlw', 'How To Catch A Chicken Without Running Around Like An Idiot', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('VXdljGYUyjk', 'Man vs. Dinosaur McDonald&#39;s Chicken Sandwich Challenge', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hRLD2u4394A', 'Cracker Barrel Fried Chicken Tenderloin on Sourdough Bread Review', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('tiRCtx0nEw4', 'Chicken Wing Loaf grilled by the BBQ Pit Boys', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OjRxVxquOrY', 'Robot Chicken Bitch Pudding Special Pt. 2 | Robot Chicken | Adult Swim', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Uej3kF8cIhY', 'Taken to Peter Pan’s Neverland | Robot Chicken | Adult Swim', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('9EJxnH4iza8', 'Minecraft Tutorial : 3x3 Automated Chicken Farm / Cooker (1.7.9+)', 'arts')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('JALM2ryvM6c', 'Ramzy and the Newscasters- Typewriter Blues.mpg', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SLCJucZroFg', 'Janis Joplin &amp; Jorma Kaukonen - The typewriter tapes (1964)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('7sutfDWOqtg', 'This New Old Typewriter - Folsom Prision Blues  - Johnny Cash', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('PEzhRyEQ7-c', 'Janis Joplin  Hesitation Blues', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('JvMgNd3Wt6U', 'Matthew Williams (Typewriter Ribbon) &amp; Eric Hill &quot;Lovin&#39; Blues&quot; Live @ Hard Rock Café', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('l3nsSvsDPHk', 'Underwood Blues', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('tRaPGrgwNXE', 'Trophy Scars - Chicago Typewriter (feat. Adam Fisher)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('rWasYBzfCC8', 'The Typewriter - Brass Band Berlin', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('g2LJ1i7222c', 'The Typewriter  Leroy Anderson   Martin Breinschmid with Strauß Festival Orchestra Vienna', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('K4qweEvtzak', 'Janis Joplin - Blow All My Blues Away 1962-1970 (Full CD2)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('WEyCINkkR-Q', 'Vintage Underwood Portable Typewriter, 1930s, Typing Demonstration', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('D734tJJwIFU', 'Fionn Regan - The Underwood Typewriter', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qJkB_lQfg1c', 'Jack Torrance&#39;s Typewriter', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Y9_l8KcQiZU', 'Dirty Cello - Typewriter Two-Step', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('D3y5L2K7dxE', 'Red Nichols Washboard Blues 1926', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('a9YRxHw5GBY&list=PLSJfIWsgCOrUTGrb6UVNC4JpFSWfvFdJp', 'Popular Underwood Typewriter Company &amp; Typewriter videos', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('eaf-ZxSnYuM&list=PLSJfIWsgCOrUTGrb6UVNC4JpFSWfvFdJp', '1930 Underwood No. 5 Manual Typewriter', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('eADiQ6zN2YU', 'Typewriter Monki - Thank God for Spotify', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2y3HK9yTqYo', 'Most Definitely My Type', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Itr4qNnPmiw', 'Free Typewriter - สิ่งที่ฉันต้อง�?าร', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('CIBnKb-L-D8', 'Royal Typewriter Demonstration', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('eLWkF38PEQ4', 'Janis Joplin - Pearl (FULL ALBUM)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Bld_-7gzJ-o', 'Janis Joplin - Ball And Chain (Amazing Performance at Monterey)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3ZlsxCxSw1w', 'Janis Joplin&#39;s Greatest Hits   Full Album', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('c7jeENBtXoE', 'Janis Joplin - Cry Baby', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bn5TNqjuHiU', 'Janis Joplin - Summertime (Live -1969)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('7uG2gYE5KOs', 'Janis Joplin - Piece Of My Heart', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FVpDOIPx_sY', 'Janis Joplin - Little Girl Blue (This is Tom Jones, 1969)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X1zFnyEe3nE', 'Janis Joplin - Ball &amp; Chain - Monterey Pop', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('fkGUt4QYc08', 'Janis Joplin - To love somebody', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5FMhnl0__Vo', 'janis joplin me and bobby mc gee', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3SL0oRcD7t0', 'Janis Joplin Piece Of My Heart HQ', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dgj-VXfl7_Y', '&quot;Janis, the way she was&quot; subtitulado en español completo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BsVzjd5H-9Y', 'Why It&#39;s Good to Sell Your Company | Janis Bergs | TEDxRiga', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bd-CiTHYMn0', 'Janis Joplin and Johnny Winter-Ego Rock [Boston, December 11th, 1969]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GoLn5hmZevs', 'ME AND BOBBY McGEE  (com legendas em português) Janis Joplin WMV V9', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('VdF4b1_LQnQ', 'Janis Joplin on Rejection | Blank on Blank | PBS Digital Studios', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oPq17ZZ5uyo', 'Society&#39;s Child - Janis Ian', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zWCwJdGlBwQ', 'Janis Joplin - Cry Baby [Live][1970]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('irU5oihACj4&list=PLC13A76B163E9A555', 'Janis Joplin playlist', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0fyQ1k94boE&list=PLC13A76B163E9A555', 'What Good Can Drinkin&#39; Do - 1962 Young Janis Joplin [Live]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Qev-i9-VKlY', 'Janis Joplin-Mercedes Benz(original)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IYdIeorcwbc&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'To Love Somebody', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('cM0T9fumD5k&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'Maybe', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('guKoNCQFAFk&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'Summertime', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('nLN72sR9w0M&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'Kozmic Blues', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Nc9saY_XcXY&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'One Night Stand', 'arts')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '1'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '26'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '45'
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('eLWkF38PEQ4', 'Janis Joplin - Pearl (FULL ALBUM)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Bld_-7gzJ-o', 'Janis Joplin - Ball And Chain (Amazing Performance at Monterey)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3ZlsxCxSw1w', 'Janis Joplin&#39;s Greatest Hits   Full Album', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('c7jeENBtXoE', 'Janis Joplin - Cry Baby', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bn5TNqjuHiU', 'Janis Joplin - Summertime (Live -1969)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('7uG2gYE5KOs', 'Janis Joplin - Piece Of My Heart', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FVpDOIPx_sY', 'Janis Joplin - Little Girl Blue (This is Tom Jones, 1969)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X1zFnyEe3nE', 'Janis Joplin - Ball &amp; Chain - Monterey Pop', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('fkGUt4QYc08', 'Janis Joplin - To love somebody', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5FMhnl0__Vo', 'janis joplin me and bobby mc gee', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3SL0oRcD7t0', 'Janis Joplin Piece Of My Heart HQ', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dgj-VXfl7_Y', '&quot;Janis, the way she was&quot; subtitulado en español completo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BsVzjd5H-9Y', 'Why It&#39;s Good to Sell Your Company | Janis Bergs | TEDxRiga', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bd-CiTHYMn0', 'Janis Joplin and Johnny Winter-Ego Rock [Boston, December 11th, 1969]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GoLn5hmZevs', 'ME AND BOBBY McGEE  (com legendas em português) Janis Joplin WMV V9', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('VdF4b1_LQnQ', 'Janis Joplin on Rejection | Blank on Blank | PBS Digital Studios', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oPq17ZZ5uyo', 'Society&#39;s Child - Janis Ian', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zWCwJdGlBwQ', 'Janis Joplin - Cry Baby [Live][1970]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('irU5oihACj4&list=PLC13A76B163E9A555', 'Janis Joplin playlist', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0fyQ1k94boE&list=PLC13A76B163E9A555', 'What Good Can Drinkin&#39; Do - 1962 Young Janis Joplin [Live]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Qev-i9-VKlY', 'Janis Joplin-Mercedes Benz(original)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IYdIeorcwbc&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'To Love Somebody', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('cM0T9fumD5k&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'Maybe', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('guKoNCQFAFk&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'Summertime', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('nLN72sR9w0M&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'Kozmic Blues', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Nc9saY_XcXY&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'One Night Stand', 'arts')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '0'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '5'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '24'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '1'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '2'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '3'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '4'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '6'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '7'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '8'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '9'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '10'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '11'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '12'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '13'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '14'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '15'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '16'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '17'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '18'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '19'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '20'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '21'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '0'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '22'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X1zFnyEe3nE', 'Janis Joplin - Ball &amp; Chain - Monterey Pop', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('eLWkF38PEQ4', 'Janis Joplin - Pearl (FULL ALBUM)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3ZlsxCxSw1w', 'Janis Joplin&#39;s Greatest Hits   Full Album', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GxeN2H0vM0Q', 'Janis Joplin - &quot;Cry Baby&quot; live in Toronto (Legendado)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('JwLdCmLF9q0', 'Janis Joplin - Summertime - Live HD', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('I2x1yo8Ztdw', 'Janis Joplin - Piece Of My Heart (1969) Frankfurt, Germany', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Ui4c0PKvVMU', 'Janis Joplin at Monterey Pop -Ball &amp; Chain', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('yk4LUGMXNH4', 'Janis Joplin - Little Girl Blue - Live HD', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('G6jV9wy2qVg', 'Janis Joplin - To Love Somebody (Bee Gees) - Live HD', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5FMhnl0__Vo', 'janis joplin me and bobby mc gee', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3SL0oRcD7t0', 'Janis Joplin Piece Of My Heart HQ', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dgj-VXfl7_Y', '&quot;Janis, the way she was&quot; subtitulado en español completo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bd-CiTHYMn0', 'Janis Joplin and Johnny Winter-Ego Rock [Boston, December 11th, 1969]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GoLn5hmZevs', 'ME AND BOBBY McGEE  (com legendas em português) Janis Joplin WMV V9', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('VdF4b1_LQnQ', 'Janis Joplin on Rejection | Blank on Blank | PBS Digital Studios', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oPq17ZZ5uyo', 'Society&#39;s Child - Janis Ian', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zWCwJdGlBwQ', 'Janis Joplin - Cry Baby [Live][1970]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('irU5oihACj4&list=PLC13A76B163E9A555', 'Janis Joplin playlist', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0fyQ1k94boE&list=PLC13A76B163E9A555', 'What Good Can Drinkin&#39; Do - 1962 Young Janis Joplin [Live]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Qev-i9-VKlY', 'Janis Joplin-Mercedes Benz(original)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('C-GFqhCq2HA', 'Janis Joplin - Mercedes Benz', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IYdIeorcwbc&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'To Love Somebody', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('cM0T9fumD5k&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'Maybe', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('guKoNCQFAFk&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'Summertime', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('nLN72sR9w0M&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'Kozmic Blues', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Nc9saY_XcXY&list=AL94UKMTqg-9ABvdTGeN__R0sI0vnr_fu9', 'One Night Stand', 'arts')
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='health' where id like '17'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '17'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '4'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '0'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '1'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '2'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '3'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '5'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '6'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '7'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '8'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '9'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '10'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '11'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '12'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '13'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '14'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '15'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '16'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '18'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '19'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '20'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '21'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('eLWkF38PEQ4', 'Janis Joplin - Pearl (FULL ALBUM)', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Bld_-7gzJ-o', 'Janis Joplin - Ball And Chain (Amazing Performance at Monterey)', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3ZlsxCxSw1w', 'Janis Joplin&#39;s Greatest Hits   Full Album', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('c7jeENBtXoE', 'Janis Joplin - Cry Baby', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bn5TNqjuHiU', 'Janis Joplin - Summertime (Live -1969)', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('7uG2gYE5KOs', 'Janis Joplin - Piece Of My Heart', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('FVpDOIPx_sY', 'Janis Joplin - Little Girl Blue (This is Tom Jones, 1969)', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X1zFnyEe3nE', 'Janis Joplin - Ball &amp; Chain - Monterey Pop', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('fkGUt4QYc08', 'Janis Joplin - To love somebody', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5FMhnl0__Vo', 'janis joplin me and bobby mc gee', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3SL0oRcD7t0', 'Janis Joplin Piece Of My Heart HQ', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dgj-VXfl7_Y', '&quot;Janis, the way she was&quot; subtitulado en español completo', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bd-CiTHYMn0', 'Janis Joplin and Johnny Winter-Ego Rock [Boston, December 11th, 1969]', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GoLn5hmZevs', 'ME AND BOBBY McGEE  (com legendas em português) Janis Joplin WMV V9', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('VdF4b1_LQnQ', 'Janis Joplin on Rejection | Blank on Blank | PBS Digital Studios', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oPq17ZZ5uyo', 'Society&#39;s Child - Janis Ian', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zWCwJdGlBwQ', 'Janis Joplin - Cry Baby [Live][1970]', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('irU5oihACj4&list=PLC13A76B163E9A555', 'Janis Joplin playlist', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0fyQ1k94boE&list=PLC13A76B163E9A555', 'What Good Can Drinkin&#39; Do - 1962 Young Janis Joplin [Live]', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Qev-i9-VKlY', 'Janis Joplin-Mercedes Benz(original)', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('C-GFqhCq2HA', 'Janis Joplin - Mercedes Benz', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('iJb7cBfrxbo&list=PLkYkkZywmNDhH4fWqgQETqMdSKdhpM6G0', 'Piece of My Heart', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('A24JZkgvNv4&list=PLkYkkZywmNDhH4fWqgQETqMdSKdhpM6G0', 'Summertime', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Qev-i9-VKlY&list=PLkYkkZywmNDhH4fWqgQETqMdSKdhpM6G0', 'Mercedes Benz', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('cM0T9fumD5k&list=PLkYkkZywmNDhH4fWqgQETqMdSKdhpM6G0', 'Maybe', 'music')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w-WxWv5RgEc&list=PLkYkkZywmNDhH4fWqgQETqMdSKdhpM6G0', 'Summertime', 'music')
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='classic music' where id like '23'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '5'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '23'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '26'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zhA64iWqMGE', 'Pendragon - This Green and Pleasant Land (live)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2G5hHEuG65I&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture (full album)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EUuM_O6p6iA&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture - 02 - As Good As Gold', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE', 'Pendragon - If i Were the Wind (and you were the rain)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc', 'Pendragon  - the black knight', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zEEinMi2BXo', 'Pendragon- The Voyager &quot;live&quot; 08', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('b02ssJAP84w', 'Pendragon 2011.Last Man On Earth: Part I, II', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BItp37gKtAo', 'Pendragon - Breaking The Spell', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('M1AJm6LwIXk', 'Pendragon 2011.Comatose: Part I, II, III', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18', 'Pendragon - Indigo', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SYz3Od6w1js', 'Pendragon- Breaking the Spell &quot;Live&quot; Québec 2013 (Full HD)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4yxq8zgyd1g', 'Pendragon - Indigo (live)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo', 'Pendragon - The Walls of Babylon', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EeVmTv-8PAg', 'Pendragon - Acoustically Challenged (Polskie Radio 3 - 2002)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('6Q0V_K37aEI', 'Pendragon 2008.Queen Of Hearts', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5mJRA4ukSnA', 'Pendragon  - As Good As Gold - The Masquerade Overture Tour 1996 (Live in Krakow)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Yn1_s2gn9Mw', 'Pendragon - Empathy (from Out Of Order Comes Chaos DVD - Blu-ray)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Hhh9TgR2ILk', 'Pendragon - schizo', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qFD8Pf6cuG4', 'Pendragon - Paintbox', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('xi6HF4ci31g', 'Pendragon 2011.Not Of This World: Part I, II, III', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('WgXR3bl_uHs', 'Pendragon - The Edge Of The World', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8564jSjUn1s&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Breaking the Spell', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'If I Were the Wind', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Black Knight', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Indigo', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Walls of Babylon', 'books')
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='knights' where id like '24'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '5'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '24'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zhA64iWqMGE', 'Pendragon - This Green and Pleasant Land (live)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2G5hHEuG65I&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture (full album)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EUuM_O6p6iA&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture - 02 - As Good As Gold', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE', 'Pendragon - If i Were the Wind (and you were the rain)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc', 'Pendragon  - the black knight', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zEEinMi2BXo', 'Pendragon- The Voyager &quot;live&quot; 08', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('b02ssJAP84w', 'Pendragon 2011.Last Man On Earth: Part I, II', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BItp37gKtAo', 'Pendragon - Breaking The Spell', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('M1AJm6LwIXk', 'Pendragon 2011.Comatose: Part I, II, III', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18', 'Pendragon - Indigo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SYz3Od6w1js', 'Pendragon- Breaking the Spell &quot;Live&quot; Québec 2013 (Full HD)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4yxq8zgyd1g', 'Pendragon - Indigo (live)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo', 'Pendragon - The Walls of Babylon', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EeVmTv-8PAg', 'Pendragon - Acoustically Challenged (Polskie Radio 3 - 2002)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('6Q0V_K37aEI', 'Pendragon 2008.Queen Of Hearts', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5mJRA4ukSnA', 'Pendragon  - As Good As Gold - The Masquerade Overture Tour 1996 (Live in Krakow)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Yn1_s2gn9Mw', 'Pendragon - Empathy (from Out Of Order Comes Chaos DVD - Blu-ray)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Hhh9TgR2ILk', 'Pendragon - schizo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qFD8Pf6cuG4', 'Pendragon - Paintbox', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('xi6HF4ci31g', 'Pendragon 2011.Not Of This World: Part I, II, III', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('WgXR3bl_uHs', 'Pendragon - The Edge Of The World', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8564jSjUn1s&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Breaking the Spell', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'If I Were the Wind', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Black Knight', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Indigo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Walls of Babylon', 'arts')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zhA64iWqMGE', 'Pendragon - This Green and Pleasant Land (live)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2G5hHEuG65I&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture (full album)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EUuM_O6p6iA&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture - 02 - As Good As Gold', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE', 'Pendragon - If i Were the Wind (and you were the rain)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc', 'Pendragon  - the black knight', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zEEinMi2BXo', 'Pendragon- The Voyager &quot;live&quot; 08', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('b02ssJAP84w', 'Pendragon 2011.Last Man On Earth: Part I, II', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BItp37gKtAo', 'Pendragon - Breaking The Spell', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('M1AJm6LwIXk', 'Pendragon 2011.Comatose: Part I, II, III', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18', 'Pendragon - Indigo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SYz3Od6w1js', 'Pendragon- Breaking the Spell &quot;Live&quot; Québec 2013 (Full HD)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4yxq8zgyd1g', 'Pendragon - Indigo (live)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo', 'Pendragon - The Walls of Babylon', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EeVmTv-8PAg', 'Pendragon - Acoustically Challenged (Polskie Radio 3 - 2002)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('6Q0V_K37aEI', 'Pendragon 2008.Queen Of Hearts', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5mJRA4ukSnA', 'Pendragon  - As Good As Gold - The Masquerade Overture Tour 1996 (Live in Krakow)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Yn1_s2gn9Mw', 'Pendragon - Empathy (from Out Of Order Comes Chaos DVD - Blu-ray)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Hhh9TgR2ILk', 'Pendragon - schizo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qFD8Pf6cuG4', 'Pendragon - Paintbox', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('xi6HF4ci31g', 'Pendragon 2011.Not Of This World: Part I, II, III', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('WgXR3bl_uHs', 'Pendragon - The Edge Of The World', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8564jSjUn1s&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Breaking the Spell', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'If I Were the Wind', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Black Knight', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Indigo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Walls of Babylon', 'arts')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '5'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '24'
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='sports' where id like '24'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+delete  from LINKS_danielle where id like '20'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '21'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zhA64iWqMGE', 'Pendragon - This Green and Pleasant Land (live)', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2G5hHEuG65I&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture (full album)', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EUuM_O6p6iA&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture - 02 - As Good As Gold', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE', 'Pendragon - If i Were the Wind (and you were the rain)', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc', 'Pendragon  - the black knight', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zEEinMi2BXo', 'Pendragon- The Voyager &quot;live&quot; 08', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('b02ssJAP84w', 'Pendragon 2011.Last Man On Earth: Part I, II', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BItp37gKtAo', 'Pendragon - Breaking The Spell', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('M1AJm6LwIXk', 'Pendragon 2011.Comatose: Part I, II, III', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18', 'Pendragon - Indigo', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SYz3Od6w1js', 'Pendragon- Breaking the Spell &quot;Live&quot; Québec 2013 (Full HD)', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4yxq8zgyd1g', 'Pendragon - Indigo (live)', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo', 'Pendragon - The Walls of Babylon', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EeVmTv-8PAg', 'Pendragon - Acoustically Challenged (Polskie Radio 3 - 2002)', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('6Q0V_K37aEI', 'Pendragon 2008.Queen Of Hearts', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5mJRA4ukSnA', 'Pendragon  - As Good As Gold - The Masquerade Overture Tour 1996 (Live in Krakow)', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Yn1_s2gn9Mw', 'Pendragon - Empathy (from Out Of Order Comes Chaos DVD - Blu-ray)', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Hhh9TgR2ILk', 'Pendragon - schizo', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qFD8Pf6cuG4', 'Pendragon - Paintbox', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('xi6HF4ci31g', 'Pendragon 2011.Not Of This World: Part I, II, III', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('WgXR3bl_uHs', 'Pendragon - The Edge Of The World', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8564jSjUn1s&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Breaking the Spell', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'If I Were the Wind', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Black Knight', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Indigo', 'movie')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Walls of Babylon', 'movie')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2Q74TyTUrTo', 'The Wombats - Your Body Is A Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('o4uJAmcr6So', 'The Wombats - A Guide to Love, Loss &amp; Desperation : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('h698z-ZURes', 'The Wombats - The Wombats Proudly Present... This Modern Glitch : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hpadYhXHgwA', 'The Wombats - Jump Into The Fog', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OiuQ_rVM-WE', 'The best Wombat Movie ever been made!!!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oZQJt1Xukl8', '10 Jobs For Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kfk6lr2xu0g', 'The Wombats Live @ Hurricane Festival 2014 (Full Concert)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8grF93Qe9Lk', 'The Wombats - 1996 (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8', 'The Wombats - Tokyo (Vampires &amp; Wolves)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo', 'The Wombats - Techno Fan (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc', 'The Wombats - Let&#39;s Dance To Joy Division [OFFICIAL VIDEO]', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('u8cIrZs2UnI', 'Playing with Baby Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dk4BA6eDwuU', 'Going underground with a wombat - extreme animals - BBC wildlife', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UOIX-JpODcA', 'Baby Wombat Orphans!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X_2h0SmVUws', 'The Wombats - Kill the Director', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4X3hDrlc5I4', 'The Wombats - Moving to New York', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('lhi4zOkOQwY', 'WOMBATS', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IfNmX1do7Po', 'Wombat attack inside tunnel', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3MY108ghf8Q', 'The Wombats - &quot;Jump Into The Fog&quot; - A Trolley Show', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3Il0bRgorM', 'The Wombats - Our Perfect Disease (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Tokyo', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Techno Fan', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ti1W7Zu8j9k&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Anti-D', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GF6Jm_IHvNY&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Your Body Is a Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Let&#39;s Dance to Joy Division', 'animals')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2Q74TyTUrTo', 'The Wombats - Your Body Is A Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('o4uJAmcr6So', 'The Wombats - A Guide to Love, Loss &amp; Desperation : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('h698z-ZURes', 'The Wombats - The Wombats Proudly Present... This Modern Glitch : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hpadYhXHgwA', 'The Wombats - Jump Into The Fog', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OiuQ_rVM-WE', 'The best Wombat Movie ever been made!!!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oZQJt1Xukl8', '10 Jobs For Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kfk6lr2xu0g', 'The Wombats Live @ Hurricane Festival 2014 (Full Concert)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8grF93Qe9Lk', 'The Wombats - 1996 (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8', 'The Wombats - Tokyo (Vampires &amp; Wolves)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo', 'The Wombats - Techno Fan (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc', 'The Wombats - Let&#39;s Dance To Joy Division [OFFICIAL VIDEO]', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('u8cIrZs2UnI', 'Playing with Baby Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dk4BA6eDwuU', 'Going underground with a wombat - extreme animals - BBC wildlife', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UOIX-JpODcA', 'Baby Wombat Orphans!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X_2h0SmVUws', 'The Wombats - Kill the Director', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4X3hDrlc5I4', 'The Wombats - Moving to New York', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('lhi4zOkOQwY', 'WOMBATS', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IfNmX1do7Po', 'Wombat attack inside tunnel', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3MY108ghf8Q', 'The Wombats - &quot;Jump Into The Fog&quot; - A Trolley Show', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3Il0bRgorM', 'The Wombats - Our Perfect Disease (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Tokyo', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Techno Fan', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ti1W7Zu8j9k&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Anti-D', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GF6Jm_IHvNY&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Your Body Is a Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Let&#39;s Dance to Joy Division', 'animals')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2Q74TyTUrTo', 'The Wombats - Your Body Is A Weapon', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('o4uJAmcr6So', 'The Wombats - A Guide to Love, Loss &amp; Desperation : full album', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('h698z-ZURes', 'The Wombats - The Wombats Proudly Present... This Modern Glitch : full album', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hpadYhXHgwA', 'The Wombats - Jump Into The Fog', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OiuQ_rVM-WE', 'The best Wombat Movie ever been made!!!', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oZQJt1Xukl8', '10 Jobs For Wombats', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kfk6lr2xu0g', 'The Wombats Live @ Hurricane Festival 2014 (Full Concert)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8grF93Qe9Lk', 'The Wombats - 1996 (Official Video)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8', 'The Wombats - Tokyo (Vampires &amp; Wolves)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo', 'The Wombats - Techno Fan (Official Video)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc', 'The Wombats - Let&#39;s Dance To Joy Division [OFFICIAL VIDEO]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('u8cIrZs2UnI', 'Playing with Baby Wombats', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dk4BA6eDwuU', 'Going underground with a wombat - extreme animals - BBC wildlife', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UOIX-JpODcA', 'Baby Wombat Orphans!', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X_2h0SmVUws', 'The Wombats - Kill the Director', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4X3hDrlc5I4', 'The Wombats - Moving to New York', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('lhi4zOkOQwY', 'WOMBATS', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IfNmX1do7Po', 'Wombat attack inside tunnel', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3MY108ghf8Q', 'The Wombats - &quot;Jump Into The Fog&quot; - A Trolley Show', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3Il0bRgorM', 'The Wombats - Our Perfect Disease (Official Video)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Tokyo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Techno Fan', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ti1W7Zu8j9k&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Anti-D', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GF6Jm_IHvNY&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Your Body Is a Weapon', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Let&#39;s Dance to Joy Division', 'arts')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '2'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '3'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2Q74TyTUrTo', 'The Wombats - Your Body Is A Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('o4uJAmcr6So', 'The Wombats - A Guide to Love, Loss &amp; Desperation : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('h698z-ZURes', 'The Wombats - The Wombats Proudly Present... This Modern Glitch : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hpadYhXHgwA', 'The Wombats - Jump Into The Fog', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OiuQ_rVM-WE', 'The best Wombat Movie ever been made!!!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oZQJt1Xukl8', '10 Jobs For Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kfk6lr2xu0g', 'The Wombats Live @ Hurricane Festival 2014 (Full Concert)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8grF93Qe9Lk', 'The Wombats - 1996 (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8', 'The Wombats - Tokyo (Vampires &amp; Wolves)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo', 'The Wombats - Techno Fan (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc', 'The Wombats - Let&#39;s Dance To Joy Division [OFFICIAL VIDEO]', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('u8cIrZs2UnI', 'Playing with Baby Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dk4BA6eDwuU', 'Going underground with a wombat - extreme animals - BBC wildlife', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UOIX-JpODcA', 'Baby Wombat Orphans!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X_2h0SmVUws', 'The Wombats - Kill the Director', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4X3hDrlc5I4', 'The Wombats - Moving to New York', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('lhi4zOkOQwY', 'WOMBATS', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IfNmX1do7Po', 'Wombat attack inside tunnel', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3MY108ghf8Q', 'The Wombats - &quot;Jump Into The Fog&quot; - A Trolley Show', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3Il0bRgorM', 'The Wombats - Our Perfect Disease (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Tokyo', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Techno Fan', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ti1W7Zu8j9k&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Anti-D', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GF6Jm_IHvNY&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Your Body Is a Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Let&#39;s Dance to Joy Division', 'animals')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '3'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '2'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2Q74TyTUrTo', 'The Wombats - Your Body Is A Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('o4uJAmcr6So', 'The Wombats - A Guide to Love, Loss &amp; Desperation : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('h698z-ZURes', 'The Wombats - The Wombats Proudly Present... This Modern Glitch : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hpadYhXHgwA', 'The Wombats - Jump Into The Fog', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OiuQ_rVM-WE', 'The best Wombat Movie ever been made!!!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oZQJt1Xukl8', '10 Jobs For Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kfk6lr2xu0g', 'The Wombats Live @ Hurricane Festival 2014 (Full Concert)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8grF93Qe9Lk', 'The Wombats - 1996 (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8', 'The Wombats - Tokyo (Vampires &amp; Wolves)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo', 'The Wombats - Techno Fan (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc', 'The Wombats - Let&#39;s Dance To Joy Division [OFFICIAL VIDEO]', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('u8cIrZs2UnI', 'Playing with Baby Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dk4BA6eDwuU', 'Going underground with a wombat - extreme animals - BBC wildlife', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UOIX-JpODcA', 'Baby Wombat Orphans!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X_2h0SmVUws', 'The Wombats - Kill the Director', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4X3hDrlc5I4', 'The Wombats - Moving to New York', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('lhi4zOkOQwY', 'WOMBATS', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IfNmX1do7Po', 'Wombat attack inside tunnel', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3MY108ghf8Q', 'The Wombats - &quot;Jump Into The Fog&quot; - A Trolley Show', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3Il0bRgorM', 'The Wombats - Our Perfect Disease (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Tokyo', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Techno Fan', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ti1W7Zu8j9k&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Anti-D', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GF6Jm_IHvNY&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Your Body Is a Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Let&#39;s Dance to Joy Division', 'animals')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '3'
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='arts' where id like '3'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2Q74TyTUrTo', 'The Wombats - Your Body Is A Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('o4uJAmcr6So', 'The Wombats - A Guide to Love, Loss &amp; Desperation : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('h698z-ZURes', 'The Wombats - The Wombats Proudly Present... This Modern Glitch : full album', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hpadYhXHgwA', 'The Wombats - Jump Into The Fog', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OiuQ_rVM-WE', 'The best Wombat Movie ever been made!!!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oZQJt1Xukl8', '10 Jobs For Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kfk6lr2xu0g', 'The Wombats Live @ Hurricane Festival 2014 (Full Concert)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8grF93Qe9Lk', 'The Wombats - 1996 (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8', 'The Wombats - Tokyo (Vampires &amp; Wolves)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo', 'The Wombats - Techno Fan (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc', 'The Wombats - Let&#39;s Dance To Joy Division [OFFICIAL VIDEO]', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('u8cIrZs2UnI', 'Playing with Baby Wombats', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('dk4BA6eDwuU', 'Going underground with a wombat - extreme animals - BBC wildlife', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UOIX-JpODcA', 'Baby Wombat Orphans!', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('X_2h0SmVUws', 'The Wombats - Kill the Director', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4X3hDrlc5I4', 'The Wombats - Moving to New York', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('lhi4zOkOQwY', 'WOMBATS', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IfNmX1do7Po', 'Wombat attack inside tunnel', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('3MY108ghf8Q', 'The Wombats - &quot;Jump Into The Fog&quot; - A Trolley Show', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3Il0bRgorM', 'The Wombats - Our Perfect Disease (Official Video)', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('DRhUIJextp8&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Tokyo', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('w8l-9nuXkDo&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Techno Fan', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ti1W7Zu8j9k&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Anti-D', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GF6Jm_IHvNY&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Your Body Is a Weapon', 'animals')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ayuooyWPEUc&list=AL94UKMTqg-9AaSWhj8xO4ueA2GDjd6xk4', 'Let&#39;s Dance to Joy Division', 'animals')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '2'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('AJFfdISQXEU', 'Chess Traps #10: Two Knights Defense Trap', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Bwk43gkpa2Q', 'Yugioh Last Chapter of the Noble Knights Revelead - New Noble Knight Support', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('rpC7QUyWPaA', 'Tenkai Knights Brave Battle - Gameplay Trailer', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bLcxNdf5pPA', 'DCI 2014: Blue Knights Exclusive HD Rehearsal Footage', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SpGTL_8zBXk', 'Last Chapter of the Noble knights - An easy Potential +2 , nuff said', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('NhWFQtzM4r0', 'Terry Jones&#39; Medieval Lives - S1 Ep 5 - The Knight', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5IvSFjczaKM', 'Rival Knights Hack 2014 [ULTIMATE HACK DOWNLOAD]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('PqiyVmAaFpU', 'Rival Knights Hack 2014 PATCHED WORKING', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('nYmxCu0Z4uI', 'Knights and Dragons Hack Free Download 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Grsq0C2txdI', 'Knights and Dragons Hack Free Download 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8sMluY1jUoI', 'Knights and Dragons Hack Free Download 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('liYv81-BPyw', 'Knights and Dragons Hack [Android-iOS]', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('tvsCxZRTY2o', 'Rival Knights 2014 Hack for Android and iOS', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UW2nAG5FzbY', 'Rival Knights Hack 2014 JULY', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('267rK1SeAkc', 'Rival Knights 2014 Hack for Android and iOS', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oW1b8v861v4', 'Rival Knights Hack 2014', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('B8YPtqVMXew', 'Knights and Dragons HACK Free to Download', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('9udWlSMqqJU', 'Knights and Dragons Hack Gems and Gold 100% Working January RELEASE Download Now', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BP0yPIq5620', 'Knights and Dragons HACK Free to Download', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('POr-CJ3J2MI', 'Knights and Dragons Hack Gems and Gold 100% Working January RELEASE Download Now', 'arts')
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='sports' where id like '1'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='sports' where id like '20'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('13cbL1SEl4k', 'Revolver Cannabis - Noche De Poker', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8V7aA0RHK-Q', 'Poker Player Loses $1 Million After Incredible Bad Beat', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('NYAIMa-Lbyk', 'Full Tilt Poker - Million Dollar Cash Game Season 5 Episode 2', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('UtcwZquaDEo', 'WATCH DOGS - #10: Hackeando no Poker?', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('gqXvkF9OwPc', 'partypoker Premier League Poker 7 - Episode 1', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('jwl7Y7YTraQ', 'partypoker Premier League Poker 7 - Episode 10', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('PuG9ouzefaA', 'Download Texas HoldEm Poker Hack Cheat Tool [No Survey]', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('vmMZ-SMwyn4', 'Texas Holdem Poker Money Hack 2014 Facebook', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('NjtbRqJxvAw', 'Texas Holdem Poker Facebook Chips Cheat - Hack January 2014 Working Download', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ICUcS_VaA3E', 'partypoker Premier League Poker 7 - Episode 17', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('kIFFMyaQMhs', 'Zynga Poker 2014 HACK No Survey 2014', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bbX-Vn51SjQ', 'Zynga poker hack free chips for iphone, ipad, android', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('uC5S5ReccAo', 'Zynga Poker Cheat 2014 Hack Chips', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('WbFUwstjU6c', 'Texas Holdem Poker Money Hack 2014 Facebook', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0Sf5S8aspKg', 'Zynga Poker Hack Get Unlimited Chips &amp; Level up Android Apple', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2oqyXT9QtRg', 'zynga poker chips generator 2014 no survey', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Thy7FE8Vzl4', 'Texas Holdem Poker Hack Mediafire Download Free [july2014]MassVideoBlasterPro -', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bB7k6FKwS8Q', 'PCA 2014 Poker Event - $100k Super High Roller, Episode 2 | PokerStars.com', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GyN_Zypw11w', 'partypoker Premier League Poker 7 - Episode 16', 'games')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('0QUzm7CQnVE', 'Texas Holdem Poker Hack and Cheats Tool Unlimited Chips', 'games')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '3'
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='arts' where id like '18'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '18'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '19'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '5'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '6'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '10'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('szp9x1ZlZn4', 'twenty one pilots: Trees (Audio)', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BickMFHAZR0', 'The Most Amazing Thing About Trees', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('abVvZLyZAIg', 'Learning About Trees | Adventures in Learning | PBS Parents', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('myakMPwMlSk', 'Got some trees to clear? You need this..', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_WVrlGoIWyw', '10 Strangest Trees On Earth', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('e8QQOmkIa8Q', 'How To Grow Orange Trees From Seed - The EASY Way!!!!', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2-OoHjjh5fM', 'The importance of Trees', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('d3JZmrLDWAg', 'How to Prune Fruit Trees: Avocado, Apple, Nectarine, Plum, Pomegranate, Pear, Cherry, Fig', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m5Mmq2vxkB0', '7 Oldest Trees in the World!', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('CgLTCG4FPrA', 'Climbing Trees With A Rope', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('bI8Xg5mqQNw', 'Trees - Fool', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v_7yEPNUXsU', 'The Man Who Planted Trees (English)', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('D7dKRBZVLvI', 'Tree Song- Learn about Trees! Roots, and Trunks, and Leaves!', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EB-LAxCpNFE', 'Acorns to Oak Trees- Part 1: Growing Trees from Seed: S01E01', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('HYcbaBK9gWs', 'UNREST - Swaying Trees Are SO Next Gen', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('iSGPNm3bFmQ', 'Do trees communicate', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('1bX-OU-3gSk', 'Sirens Call - Cats on Trees', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hNwhxcLrgEc', 'Climbing Trees', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('GBiHAGYJXVQ', 'Yosemite Nature Notes - 11 - Big Trees', 'tree')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('74063UKSmXw', 'Why Trees?', 'tree')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '32'
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='arts' where id like '33'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zhA64iWqMGE', 'Pendragon - This Green and Pleasant Land (live)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2G5hHEuG65I&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture (full album)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EUuM_O6p6iA&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture - 02 - As Good As Gold', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE', 'Pendragon - If i Were the Wind (and you were the rain)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc', 'Pendragon  - the black knight', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zEEinMi2BXo', 'Pendragon- The Voyager &quot;live&quot; 08', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('b02ssJAP84w', 'Pendragon 2011.Last Man On Earth: Part I, II', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BItp37gKtAo', 'Pendragon - Breaking The Spell', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('M1AJm6LwIXk', 'Pendragon 2011.Comatose: Part I, II, III', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18', 'Pendragon - Indigo', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SYz3Od6w1js', 'Pendragon- Breaking the Spell &quot;Live&quot; Québec 2013 (Full HD)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4yxq8zgyd1g', 'Pendragon - Indigo (live)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo', 'Pendragon - The Walls of Babylon', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EeVmTv-8PAg', 'Pendragon - Acoustically Challenged (Polskie Radio 3 - 2002)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('6Q0V_K37aEI', 'Pendragon 2008.Queen Of Hearts', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5mJRA4ukSnA', 'Pendragon  - As Good As Gold - The Masquerade Overture Tour 1996 (Live in Krakow)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Yn1_s2gn9Mw', 'Pendragon - Empathy (from Out Of Order Comes Chaos DVD - Blu-ray)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Hhh9TgR2ILk', 'Pendragon - schizo', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qFD8Pf6cuG4', 'Pendragon - Paintbox', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('xi6HF4ci31g', 'Pendragon 2011.Not Of This World: Part I, II, III', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('WgXR3bl_uHs', 'Pendragon - The Edge Of The World', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8564jSjUn1s&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Breaking the Spell', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'If I Were the Wind', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Black Knight', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Indigo', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'The Walls of Babylon', 'books')
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Kwg7EzBx6qs', 'Bestselling Author D.J. MacHale Discusses His Series Pendragon', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5UfK_Iu3pC0', 'Interview with Pendragon Author D. J. MacHale', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ggn3YRxaw28', 'Author D.J. MacHale&#39;s Pendragon Pronunciation Guide', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('35b1u0x26iQ', 'Fanmade Pendragon Trailer (DJ MacHale)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OpvZ00LNH7c', 'MacHale&#39;s Pendragon Series', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4MViHS0Iej8', 'Pendragon Series - The Merchant of Death by D.J.Machale', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Mx3Ey56BgAo', 'Pendragon: the Merchant of Death by D.J. MacHale Book Review', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('NkSdTxEFOBE', 'The Pendragon Adventure by D.J. MacHale', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Kwg7EzBx6qs&list=PLxpiDuDXo1MP0pWXc7Wpp9OC6iASk9IaM', 'Popular Pendragon &amp; D. J. MacHale videos', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5UfK_Iu3pC0&list=PLxpiDuDXo1MP0pWXc7Wpp9OC6iASk9IaM', 'Interview with Pendragon Author D. J. MacHale', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_l8pIVTlMhM&list=PLcJacWQGyh95bXR8ZFMLNc0DJWyvCeD61', 'Popular D. J. MacHale &amp; Pendragon videos', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('rzfaJqbFcT0&list=PLcJacWQGyh95bXR8ZFMLNc0DJWyvCeD61', 'Pendragon Pronunciation Guide Video', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('uef6KtSPM4w', 'My Pendragon Series Cast Choices Part 1 (D.J Machale).', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('O6k9TyIYXDA', 'DJ MacHale talking about The Soldiers of Halla', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('eFNCXzIHUVU', 'Sam wants you to read The Merchant of Death, Pendragon book 1, by DJ MacHale', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccFwlVVKEl8', 'Pendragon Merchant of Death Trailer (Fan Made)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('df-VvDXiwuU', 'Pendragon The Never War Trailer (Fan Made)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5Gbosu3fAIo', 'D.J. MacHale: 2013 National Book Festival', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_l8pIVTlMhM', 'Book Review: The Pendragon Series', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qv6fBTzCTEw', 'GeekChat Book Club Episode #001 - Pendragon #1: The Merchant of Death', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('btQQcSFtRK4', 'Time-lapse Drawing (Bobby Pendragon)', 'books')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('snkosHvnA3M', 'Book Review: Merchant of Death by D J  MacHale', 'books')
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='movies' where id like '16'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '16'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zhA64iWqMGE', 'Pendragon - This Green and Pleasant Land (live)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2G5hHEuG65I&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture (full album)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EUuM_O6p6iA&list=PLUPs8D55DP7GCTRSM2Pddw3UFZJmKYUfj', 'Pendragon - The Masquerade Overture - 02 - As Good As Gold', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('V4BUn1YYWJE', 'Pendragon - If i Were the Wind (and you were the rain)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('LEcHjN47ftc', 'Pendragon  - the black knight', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zEEinMi2BXo', 'Pendragon- The Voyager &quot;live&quot; 08', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('b02ssJAP84w', 'Pendragon 2011.Last Man On Earth: Part I, II', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('BItp37gKtAo', 'Pendragon - Breaking The Spell', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('M1AJm6LwIXk', 'Pendragon 2011.Comatose: Part I, II, III', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18', 'Pendragon - Indigo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('SYz3Od6w1js', 'Pendragon- Breaking the Spell &quot;Live&quot; Québec 2013 (Full HD)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4yxq8zgyd1g', 'Pendragon - Indigo (live)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('2GwoHqlKaSo', 'Pendragon - The Walls of Babylon', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EeVmTv-8PAg', 'Pendragon - Acoustically Challenged (Polskie Radio 3 - 2002)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Hhh9TgR2ILk', 'Pendragon - schizo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('6Q0V_K37aEI', 'Pendragon 2008.Queen Of Hearts', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5mJRA4ukSnA', 'Pendragon  - As Good As Gold - The Masquerade Overture Tour 1996 (Live in Krakow)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Yn1_s2gn9Mw', 'Pendragon - Empathy (from Out Of Order Comes Chaos DVD - Blu-ray)', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qFD8Pf6cuG4', 'Pendragon - Paintbox', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('xi6HF4ci31g', 'Pendragon 2011.Not Of This World: Part I, II, III', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('WgXR3bl_uHs', 'Pendragon - The Edge Of The World', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('8564jSjUn1s&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Breaking the Spell', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('ccr-VkEpE18&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Indigo', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('oPiTopGXkD4&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'Masters of Illusion', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('HUh0ty5IQ7Y&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'This Green and Pleasant Land', 'arts')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('EUuM_O6p6iA&list=AL94UKMTqg-9CNnDNjkkTGzlDu_2BlTlFA', 'As Good as Gold', 'arts')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+DROP TABLE IF EXISTS youtubedatabase.LINKS_danielle
+create table youtubedatabase.LINKS_danielle (id MEDIUMINT NOT NULL AUTO_INCREMENT,SHORT_LINK varchar(1024) NOT NULL, DESCRIPTION varchar(1024), DATE_ADDED_TO_RESULTS DATETIME DEFAULT CURRENT_TIMESTAMP, CATEGORY varchar(1024), PRIMARY KEY (id))
+USE youtubedatabase
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('gf2JqsEhoTo', 'Messing with chickens and trees! Hilarious!', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('leZ90etUSns', 'Minecraft With Ryan #1 Chickens and Trees', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Tvv5gL1pGb0', 'Classic Sesame Street - There Are Chickens in the Trees!', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('63wYxjVYyOw', 'Minecraft Let&#39;s Play Ep1 Island of chickens and trees', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('i1N3WdzN1sU', 'Minecraft Lp Ep. 14 - Chickens and Trees', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('NUyUhIgaDr8', 'Tour of Ben&#39;s &quot;Microstead&quot; - Fruit Trees, Chickens, Rabbits and more!', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('YSXXsdLo32Q', 'How To TerraFirmaCraft - EP 5 - Fruit Trees and Chickens - Creating a sustainable food supply', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('tMLRIEtFgaQ', 'Surviving with Flynn - S2E24 - Chickens and Trees', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IeGyjqsmvZ8', 'ObsidianGate SMP Episode 2 (Why So Many Chickens and Birch Trees)', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Lsa0dvhjsd4', 'Dual Survival w Dream &amp; Alpha- Ep 14 - Chickens and greedy trees', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('t_03ycGDNKQ', 'Minecraft: Laggy Let&#39;s Play - Ep. 1 - Trees, and sheep, and chickens, and squids...', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('NQzf3OFeTkA', 'Shamba Shape Up (English) - Bananas, Chickens, Fruit Trees', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('TsszjxR7sTI', 'Skyrim: WTF Flying Carts and Super Chickens and Magic Trees', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zwjPj1p1Azo', 'deep chicken bedding with christmas trees in the chicken coop', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('wracnJx7Qtk', 'Minecraft griefing - Chickens, trees and giveme', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('XimSjAlBDYs', 'Shamba Shape Up (Swahili) - Bananas, Chickens, Fruit Trees', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('m7sxr5FNx-o', 'Minecraft Episode 1: In The Beginning, There Were Trees, Chickens, and STDs', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('lV6S5jCDfU0', 'chickens and kiwi trees(with my friend Yukiyuki9078)', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('O6Z2wDrtF7I', 'Mindcrack Feed the Beast S2E9 - More chickens, less trees. And quarries.', 'horticulture')
+insert into youtubedatabase.LINKS_danielle (SHORT_LINK, DESCRIPTION, CATEGORY ) values('-0Frm9mhSjE', 'Chickens Under Fruit Trees', 'horticulture')
+USE youtubedatabase
+delete  from LINKS_danielle where id like '17'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+USE youtubedatabase
+delete  from LINKS_danielle where id like '2'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '1'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '3'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '4'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '5'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '6'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '7'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '8'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '9'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '10'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '11'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '12'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '13'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '14'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '15'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '16'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '18'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '19'
+USE youtubedatabase
+delete  from LINKS_danielle where id like '20'
+USE youtubedatabase
+UPDATE LINKS_danielle SET CATEGORY='arts' where id like '0'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('QBxmNif2Rcs', 'Dirty Dishes', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('hOaCCgW_0wY', 'dirty dishes', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qddGMCplL2o', 'How to Hand Wash Dishes: 10 Handy Dish Washing Tips!', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('5kZTzEYlXUY', 'Potato side dishes (Gamjabokkeum: �?�?볶�?�)', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('YxYnXDP_Oyc', 'Ingrid Dishes | Mini Grilled Cheese Sandwiches | Recipes from Missglamorazzi', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('9Q9jMvG5zcY', 'Flynn Adam &quot;Dishes&quot;', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('IWRGt1UqB00', 'Ingrid Dishes | Homemade Tiramisu | Recipes from Missglamorazzi', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('v69mFE6-Ya8', 'Ingrid Dishes | California Chicken Salad | Recipes from Missglamorazzi', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('t7pgOWPXYEo', 'Ingrid Dishes | Bacon Mac And Cheese | Recipes from Missglamorazzi', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('-IicuyDgRyw', 'Steamed eggs (Gyeranjjim:계란찜)', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('o9H9Vs-0BOc', 'Ingrid Dishes | French Toast Skewers | Recipes from Missglamorazzi', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('QwDZEAf9axY', 'Pulp - Dishes', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('aLF6zXjEvKk', 'Fried Chicken Battle - Dueling Dishes', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('wbhPH9mV6Go', 'Cat Helps Washing The Dishes', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('zL2kBTY3Nfw', 'Latke Cooking Competition - Dueling Dishes', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('G9iTdyGKgD4', 'Jack Johnson - Washing Dishes (lyric video)', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('gbCmY8PmuJU', '9 British Dishes Everyone Should Try - Anglophenia Ep 2', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Jp0H7eemxAQ', 'Ingrid Dishes | Salmon Burgers | Recipes from Missglamorazzi', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('y7JkaU0QE9A', 'Washing Dishes- Jack Johnson', 'kitchen')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('79ColY1oIaU', 'Rihanna - Breakin&#39; Dishes (Control Room)', 'kitchen')
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('wAyxnC-6z9M', 'Minecraft Mindcrack Server Ep 10 - &quot;Flying Redstone Fish!!!&quot;', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('JWWAtZ65BJs', 'ZWEBACK 100K Q&amp;A | THERE WILL BE FISH!', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('gF9RI8sn9wg', 'Fish and Chips Shop! | BeanCraft Episode: 93', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('XOeBu9UQnp4', 'stampylongnose Minecraft Xbox - Fish Me A Dish', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('OscRe3pSP80', '♥♥ Coral Reef Fish (3 hours)', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('QB9-FSC4WCk', 'Freddi Fish &amp; The Slow Descent Into Madness - Livestream Highlight', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('KzzHlU_hjoE', 'Wild Kratts When Fish Fly new 2014', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('JPuOOK3RctA', 'Let&#39;s Play Legend of Zelda: Majora&#39;s Mask - Episode 19 [Fried Fish]', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('52Aol7H3GuA', 'Magical Fishing: Tongue Fish and more (hopefully)', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('I8yJkIuvPvM', 'Milking the WORLD&#39;S MOST VENOMOUS FISH! - Smarter Every Day 117', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('NAtrvICWhVE', 'Magical Fishing: Rune Fish!', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('AREZhTb_I4c', 'How to Acclimate Fish : Aquariums &amp; Fish Care', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('wdtjFcsvelo', 'DOWNLOAD Fish Tycoon FULL FOR FREE', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('WxgGnvU-zi8', 'DOWNLOAD Fish Fillets 2 NEW 2014', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('Jvf0ZHkt3C8', 'How to Find Fish - Bass Fishing', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('4i3s03EfXzQ', 'Download Aquazone Classic Reef Fish Expansion Pack NEW 2014', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('_C247fUie28', 'DOWNLOAD Freddi Fish and Luther&#39;s Maze Madness WORKING 2014', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('9y4GJW1GwVY', 'DOWNLOAD Freddi Fish and Luther&#39;s Maze Madness FULL VERSION', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('qF6IrWLiAIo', 'Download Fish Aquarium 3D Screensaver 1.1 FULL FREE', 'fish')
+insert into youtubedatabase.LINKS_newbie (SHORT_LINK, DESCRIPTION, CATEGORY ) values('t--s4aeLc7Q', 'Realistic Miniature Fish - Polymer Clay Tutorial', 'fish')
+USE youtubedatabase
+UPDATE LINKS_newbie SET CATEGORY='arts' where id like '71'
+USE youtubedatabase
+delete  from LINKS_newbie where id like '71'
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
+CREATE DATABASE IF NOT EXISTS youtubedatabase
+USE youtubedatabase
+USE youtubedatabase
+create table IF NOT EXISTS youtubedatabase.USERS(USERNAME varchar(100) NOT NULL,PASSWORD varchar(100),PRIMARY KEY (USERNAME))
